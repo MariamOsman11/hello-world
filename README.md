@@ -47,20 +47,23 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 -A Git hub account
+<br>
 -Node JS
+<br>
 -Visual Studio Code or any other code editor of your preference
+<br>
 -web browser
 
 ### Setup
 
-Clone this repository to your desired folder:
-Advantages of Linters:
+Clone this repository to your desired folder:<br>
+Advantages of Linters:<br>
 
-1: improves readability-it will be easy to read and make adjustment if required easily.
-2:removes silly errors before execution and code review.
-3:Makes code look like written by a single person.
-4:Spreads awareness and ownership over code quality
-5:Having more secure and performant code.
+1: improves readability-it will be easy to read and make adjustment if required easily.<br>
+2:removes silly errors before execution and code review.<br>
+3:Makes code look like written by a single person.<br>
+4:Spreads awareness and ownership over code quality<br>
+5:Having more secure and performant code.<br>
 
 ## Install Linters
 
@@ -68,9 +71,9 @@ You can find linters for most of the programming languages, e.g. Rubocop for Rub
 
 Also, there are many ways you can integrate a linter in your workflow:
 
--text editor plugin
--GitHub Actions
--GitHub apps
+-text editor plugin<br>
+-GitHub Actions<br>
+-GitHub apps<br>
 
 ## Set up Linters
 
